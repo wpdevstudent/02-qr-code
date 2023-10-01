@@ -99,7 +99,6 @@ img {
 
 .container {
   min-height: 80vh;
-  max-width: 90rem;
   background-color: hsl(0, 0%, 100%);
   font-size: 0.938rem; 
   margin-top: 2rem;
