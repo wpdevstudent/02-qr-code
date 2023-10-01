@@ -100,10 +100,11 @@ img {
 .container {
   min-height: 80vh;
   background-color: hsl(0, 0%, 100%);
-  font-size: 0.938rem; 
+  font-size: 1rem; 
   margin-top: 2rem;
   margin-bottom: 2rem;
-  /* border-radius: 1.75rem; */
+  border-radius: 1.75rem;
+  overflow: hidden;
 }
 
 .card h1 {
@@ -113,9 +114,7 @@ img {
 .card {
   max-width: 90rem;
   background-color: hsl(0, 0%, 100%);  
-  margin: 1rem;
-  border-radius: 1.75rem;
-  overflow: hidden;
+  margin: 1rem;  
 }
 
 .attribution {
