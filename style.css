@@ -98,7 +98,7 @@ img {
 }
 
 .container {
-  min-height: 100vh;
+  min-height: 70vh;
   background-color: hsl(0, 0%, 100%);
   font-size: 1rem; 
   margin-top: 2rem;
