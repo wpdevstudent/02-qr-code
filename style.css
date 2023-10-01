@@ -1,4 +1,4 @@
-/**** Start Andy Bell CSS reset ****/
+/**** Start Andy Bells CSS reset ****/
 
 /* Box sizing rules */
 *,
@@ -79,10 +79,15 @@ select {
 
 
 body {
+  min-height: 100svh;
   font-family: "Outfit", sans-serif;
   background-color: hsl(212, 45%, 89%);
   padding: 1rem;
-  font-size: 0.625rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 } 
 
 .container .card {
@@ -98,7 +103,6 @@ img {
 }
 
 .container {
-  min-height: 70vh;
   background-color: hsl(0, 0%, 100%);
   font-size: 1rem; 
   margin-top: 2rem;
@@ -114,7 +118,7 @@ img {
 .card {
   max-width: 90rem;
   background-color: hsl(0, 0%, 100%);  
-  margin: 1rem;  
+  margin: 1rem;
 }
 
 .attribution {
