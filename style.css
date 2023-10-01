@@ -94,7 +94,7 @@ img {
   flex-direction: column;
   text-align: center;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 10px;
+  border-radius: 0.625rem;
   
   
 }
@@ -103,6 +103,6 @@ img {
   max-width: 90rem;
   padding: 1.25rem;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 10px;
+  border-radius: 0.625rem;
 }
 
