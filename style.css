@@ -80,16 +80,16 @@ select {
 
 body {
   background-color: hsl(212, 45%, 89%);
-}
-
- img {
-   max-width: 100%;
-   border-radius: 0.625rem;
 } 
 
 .container .card {
    text-align: center;
 }
+ img {
+   max-width: 100%;
+   border-radius: 0.625rem;
+} 
+
 .container {
   display: flex;
   min-height: 100vh;
@@ -101,10 +101,7 @@ body {
   font-size: 0.938rem;
   margin-top: 5.625rem;
   margin-bottom: 5.625rem;
-  font-size: 0.625rem;
-  
-  
-  
+  font-size: 0.625rem;  
 }
 
 .card {
