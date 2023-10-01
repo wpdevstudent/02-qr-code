@@ -95,9 +95,9 @@ body {
 }
 
 img {
-  display: block;
+  /* display: block;
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 100%; //  These styles are already present in the CSS preset, so I don't think I need them here */
   border-radius: 1.75rem;
   padding: 1.125rem;
 }
