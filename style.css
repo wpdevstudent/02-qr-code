@@ -80,35 +80,37 @@ select {
 
 body {
   background-color: hsl(212, 45%, 89%);
+  margin-left: 10%;
+  margin-right: 10%;
 } 
 
 .container .card {
    text-align: center;
 }
- img {
-   max-width: 100%;
-   border-radius: 0.625rem;
-} 
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 1.75rem;
+}
 
 .container {
-  display: flex;
   min-height: 100vh;
+  max-width: 1440px;
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 0.625rem;
-  font-size: 0.938rem;
-  margin-top: 5.625rem;
-  margin-bottom: 5.625rem;
-  font-size: 0.625rem;  
+  font-size: 0.938rem; 
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  border-radius: 1.75rem;
 }
 
 .card {
   max-width: 90rem;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  background-color: hsl(0, 0%, 100%);
-  border-radius: 0.625rem;
-  margin: 0;
+  background-color: hsl(0, 0%, 100%);  
+  padding: 0 1rem 0 1rem;
 }
