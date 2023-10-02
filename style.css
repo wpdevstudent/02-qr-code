@@ -95,9 +95,7 @@ body {
 }
 
 img {
- /* display: block; */
   margin: 0 auto;
-/*  max-width: 100%; */
   border-radius: 1.75rem;
   padding: 1.125rem;
 }
