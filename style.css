@@ -108,13 +108,13 @@ img {
 
  h1 {
   font-size: 1.225rem;
-  color: hsl(218, 44%, 22%);
+  color: hsl(218, 44%, 22%); /* dark blue */
   letter-spacing: -0.07em;
 }
 
  p {
   font-size: 0.9375rem; /* 15px converted to rem */
-  color: hsl(220, 15%, 55%); /* dark blue */
+  color: hsl(220, 15%, 55%); /* grayish blue */
   font-weight: 700;
 }
 
