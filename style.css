@@ -111,6 +111,8 @@ img {
 
 .card h1 {
   font-size: 1.225rem;
+  color: hsl(218, 44%, 22%);
+  letter-spacing: -0.07em;
 }
 
 .card {
