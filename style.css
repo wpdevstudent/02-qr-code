@@ -114,7 +114,7 @@ img {
 
  p {
   font-size: 0.9375rem; /* 15px converted to rem */
-  color: hsl(220, 15%, 55%)
+  color: hsl(220, 15%, 55%); /* dark blue */
   font-weight: 700;
 }
 
