@@ -106,7 +106,7 @@ img {
   overflow: hidden;
 }
 
- h1 {
+.card h1 {
   font-size: 1.225rem;
   color: hsl(218, 44%, 22%); /* dark blue */
   font-weight: bolder;
