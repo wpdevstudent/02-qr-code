@@ -116,6 +116,7 @@ img {
   font-family: 'Outfit', sans-serif;
   font-size: 0.9375rem; /* 15px converted to rem */
   color: hsl(212, 45%, 89%);
+  font-weight: 700;
 }
 
 .card {
