@@ -106,10 +106,11 @@ img {
   overflow: hidden;
 }
 
-.card h1 {
+ h1 {
   font-size: 1.225rem;
   color: hsl(218, 44%, 22%); /* dark blue */
-  font-weight: bolder;
+  /* font-weight: bolder; */
+   font-weight: 900;
 }
 
  p {
