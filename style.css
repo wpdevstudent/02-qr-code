@@ -102,7 +102,7 @@ img {
 
 .container {
   background-color: hsl(0, 0%, 100%);
-  font-size: 1rem; 
+  font-size: 0.9375rem; 
   margin-top: 2rem;
   margin-bottom: 2rem;
   border-radius: 1.75rem;
