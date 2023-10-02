@@ -110,7 +110,10 @@ img {
   font-size: 1.225rem;
   color: hsl(218, 44%, 22%);
   letter-spacing: -0.07em;
-  font-family: "Outfit", sans-serif;
+}
+
+h1, p {
+    font-family: "Outfit", sans-serif;
 }
 
 .card {
