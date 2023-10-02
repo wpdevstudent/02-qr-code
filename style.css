@@ -113,17 +113,15 @@ img {
 }
 
  p {
-    font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.9375rem; /* 15px converted to rem */
+  font-color: hsl(212, 45%, 89%);
 }
 
 .card {
   max-width: 90rem;
   background-color: hsl(0, 0%, 100%);  
   margin: 1rem;
-}
-
-p {
-  font-size: 0.9375rem;
 }
 
 .attribution {
