@@ -112,8 +112,8 @@ img {
   letter-spacing: -0.07em;
 }
 
-h1, p {
-    font-family: "Outfit", sans-serif;
+ p {
+    font-family: 'Outfit', sans-serif;
 }
 
 .card {
@@ -121,6 +121,7 @@ h1, p {
   background-color: hsl(0, 0%, 100%);  
   margin: 1rem;
 }
+
 p {
   font-size: 0.9375rem;
 }
