@@ -106,10 +106,10 @@ img {
   overflow: hidden;
 }
 
- h2 {
+ h1 {
   font-size: 1.225rem;
   color: hsl(218, 44%, 22%); /* dark blue */
-  font-weight: bolder;
+  font-weight: 700;
 }
 
  p {
@@ -118,7 +118,7 @@ img {
   font-weight: 700;
 }
 
-h2, p {
+h1, p {
   font-family: 'Outfit', sans-serif;
 }
 
