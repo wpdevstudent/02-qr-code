@@ -118,10 +118,6 @@ img {
   color: hsl(220, 15%, 55%); /* grayish blue */
 }
 
-/* h1, p {
-  font-family: 'Outfit', sans-serif;
-} */
-
 .card {
   max-width: 90rem;
   background-color: hsl(0, 0%, 100%);  
