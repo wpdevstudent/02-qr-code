@@ -102,7 +102,6 @@ img {
   margin-top: 2rem;
   margin-bottom: 2rem;
   border-radius: 1.5rem;
-  overflow: hidden;
 }
 
  h1 {
@@ -119,8 +118,8 @@ img {
 .card {
   background-color: hsl(0, 0%, 100%);  
   margin: 1rem;
-  border-radius: 1.5rem;
-  overflow: hidden;
+ /* border-radius: 1.5rem;
+  overflow: hidden; */
 }
 
 .attribution {
