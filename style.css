@@ -94,7 +94,7 @@ img {
   margin: 0 auto;
   padding: 1.125rem;
   border-radius: 1.5rem;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .container {
