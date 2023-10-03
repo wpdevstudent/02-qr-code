@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://wpdevstudent.github.io/02-qr-code/](https://wpdevstudent.github.io/02-qr-code/)
-- Live Site URL: [Add live site URL here](https://wpdevstudent.github.io/02-qr-code/)
+- Solution URL: [https://github.com/wpdevstudent/02-qr-code](https://github.com/wpdevstudent/02-qr-code)
+- Live Site URL: [https://wpdevstudent.github.io/02-qr-code/](https://wpdevstudent.github.io/02-qr-code/)
 
 ## My process
 
